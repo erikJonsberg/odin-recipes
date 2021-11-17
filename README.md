@@ -1,2 +1,6 @@
 # odin-recipes
-Basic html project for TOP
+The Odin Project - Fundamentals
+
+Recipes Project
+
+This is a simple website for practicing HTML basics.
